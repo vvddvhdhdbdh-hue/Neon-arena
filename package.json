@@ -1,0 +1,9 @@
+{
+  "name": "neon-arena-server",
+  "version": "1.0.0",
+  "description": "Multiplayer server for Neon Arena (deathmatch, point of contact, co-op waves with shared enemies)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=16" },
+  "license": "MIT"
+}
